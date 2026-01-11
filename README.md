@@ -1,3 +1,4 @@
+# Auto Job Applier
 
 This project automates the process of searching and applying for jobs on LinkedIn using Selenium.
 
